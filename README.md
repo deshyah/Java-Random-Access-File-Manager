@@ -11,9 +11,9 @@ This project demonstrates binary file stream operations and low-level data persi
 ## ✨ Key Features
 
 * **Fixed-Width Binary Sizing:** Pads string attributes with trailing spaces to ensure constant 240-byte record lengths for direct byte-level offset positioning.
-* **Record Entry GUI (RandProductMaker):** Form-driven interface with input validation, real-time record counting, and appended binary file storage[cite: 50].
-* **Search GUI (RandProductSearch):** Real-time search tool that scans binary records and returns matching products based on partial string queries[cite: 54].
-* **Robust Validation:** Safeguards against empty inputs and invalid data types before performing disk writes[cite: 50].
+* **Record Entry GUI (RandProductMaker):** Form-driven interface with input validation, real-time record counting, and appended binary file storage.
+* **Search GUI (RandProductSearch):** Real-time search tool that scans binary records and returns matching products based on partial string queries.
+* **Robust Validation:** Safeguards against empty inputs and invalid data types before performing disk writes.
 
 ---
 
